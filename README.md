@@ -98,8 +98,8 @@ Total enrollments.
 | Nathan Macsuku/23.0359 | Backend Development      | Handled PHP logic/database connection.  
 | Salami Feranmi/23.0607 | Database Design          | Created MySQL tables and managed database structure.             
 | Prince Onyerionwu      | Frontend Design          | Designed HTML/CSS layout for forms and tables.       
-| Uchenna Uzoma          | Validation & Testing     | Implemented input validation and tested all modules.
-| Yongosi Divine         | Documentation            | Wrote README.md and prepared presentation summary.
+| Uchenna Uzoma /23.1837 | Validation & Testing     | Implemented input validation and tested all modules.
+| Yongosi Divine/ 23.1032       | Documentation            | Wrote README.md and prepared presentation summary.
 | Usenbor Kelly/23.1837  | Dashboard Developer      | Built dashboard/shows total students, courses.
 | Samuel Adedamola       | Admin panel developer    | Builds admin management features.
 
