@@ -100,7 +100,7 @@ Total enrollments.
 | Prince Onyerionwu      | Frontend Design          | Designed HTML/CSS layout for forms and tables.       
 | Uchenna Uzoma /23.1837 | Admin panel developer    | Builds admin management features.
 | Yongosi Divine/ 23.1032       | Documentation            | Wrote README.md and prepared presentation summary.
-| Usenbor Kelly/23.1837  | Dashboard Developer      | Built dashboard/shows total students, courses.
+| Usenbor Kelly/23.2283  | Dashboard Developer      | Built dashboard/shows total students, courses.
 | Samuel Adedamola       | Admin panel developer    | 
 ## Presentation Summary
 
