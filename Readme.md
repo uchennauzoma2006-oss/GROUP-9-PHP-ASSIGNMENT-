@@ -448,7 +448,7 @@ and tables.      
 
 
 | Uchenna
-Uzoma          | Validation &
+Uzoma/ 23.1837       | Validation &
 Testing     | Implemented input
 validation and tested all modules.
 
@@ -461,7 +461,7 @@ presentation summary.
 
 
 | Usenbor
-Kelly/23.1837  | Dashboard Developer      | Built dashboard/shows total students,
+Kelly/23.22  | Dashboard Developer      | Built dashboard/shows total students,
 courses.
 
 
@@ -1049,7 +1049,7 @@ and tables.      
 
 
 | Uchenna
-Uzoma          | Validation &
+Uzoma/ 23/1837       | Validation &
 Testing     | Implemented input
 validation and tested all modules.
 
@@ -1062,7 +1062,7 @@ presentation summary.
 
 
 | Usenbor
-Kelly/23.1837  | Dashboard Developer      | Built dashboard/shows total students,
+Kelly/23.2283 | Dashboard Developer      | Built dashboard/shows total students,
 courses.
 
 
