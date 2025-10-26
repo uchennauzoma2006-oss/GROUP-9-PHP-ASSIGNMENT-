@@ -48,10 +48,10 @@ Access the App
 In your browser, open
  http://localhost/courseEnrollment.Portal/
 
-### 🧩 STEP 2:
+### STEP 2:
 
 ```markdown
-## 🔄 Workflow
+## Workflow
 - Each member worked on one module of the project.
 - Tasks were shared equally based on difficulty.
 - All members collaborated through a shared folder and group discussions.
@@ -90,19 +90,18 @@ Total courses
 
 Total enrollments.
 
-## 👥 Member Contributions
+##  Member Contributions
 
 | Name/Matric            | Task                     |Description
 |------------------------|--------------------------|-----------------------------------------------------
-| Olawumi Clement/24.2937| oversees whole project   | Assigns tasks to members.               
+| Olawumi Clement/24.2937| oversees whole project   | Assigns tasks to members .               
 | Nathan Macsuku/23.0359 | Backend Development      | Handled PHP logic/database connection.  
 | Salami Feranmi/23.0607 | Database Design          | Created MySQL tables and managed database structure.             
 | Prince Onyerionwu      | Frontend Design          | Designed HTML/CSS layout for forms and tables.       
-| Uchenna Uzoma /23.1837 | Validation & Testing     | Implemented input validation and tested all modules.
+| Uchenna Uzoma /23.1837 | Admin panel developer    | Builds admin management features.
 | Yongosi Divine/ 23.1032       | Documentation            | Wrote README.md and prepared presentation summary.
 | Usenbor Kelly/23.1837  | Dashboard Developer      | Built dashboard/shows total students, courses.
-| Samuel Adedamola       | Admin panel developer    | Builds admin management features.
-
+| Samuel Adedamola       | Admin panel developer    | 
 ## Presentation Summary
 
 Title: Online Course Enrollment Portal (Group 9)
@@ -121,12 +120,12 @@ All members had tasks of similar difficulty and scope:
 - Everyone participated in debugging and testing.
 - No task was harder or easier than another.
 
-## 🧠 Tools Used
+##  Tools Used
 - PHP
 - MySQL
 - HTML/CSS
 - XAMPP
 - VS Code
 
-## 📅 Version
+##  Version
 v1.0 – October 2025
